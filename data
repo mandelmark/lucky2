@@ -1,1 +1,16 @@
-com.HubLawtanApp2.HappyLuckyPatchersTips
+{
+            "ads": {"network":"applovin","url":""},
+            "reword": {"items":""},
+            
+            "fan": {
+            "banner":"",
+            "inter":"",
+            "nativ":"",
+            "reword":""},
+            
+            "applovin": {
+            "banner":"d8b92df04eab40d0",
+            "inter":"fac78e3a57c02628",
+            "nativ":"6ba9aa066ed4315a",
+            "reword":"fb1c95b54741c9e5"}
+            }
